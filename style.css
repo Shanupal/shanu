@@ -1,0 +1,9 @@
+.textcontent{
+    font-size:35px ;
+}
+.textAreaInput:hover{
+   border: 2px solid skyblue;
+}
+.col-md-4 textarea{
+    border: 2px solid black;
+}
